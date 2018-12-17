@@ -24,6 +24,7 @@ h1{
 }
 #side{
   color:rgb(59, 8, 59);
+  box-shadow:3px 4px 3px blue;
 }
 img{
     background-image:url(vava.jpeg);
