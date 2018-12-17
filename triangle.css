@@ -1,6 +1,12 @@
-boby{
+body{
     background-color: grey;
 }
-h1{
-    color:blue
+h4{
+    color:rgb(206, 206, 212);
+}
+h2,h3{
+    color:white;
+}
+img{
+    float: center;
 }
