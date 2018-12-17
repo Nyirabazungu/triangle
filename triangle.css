@@ -1,25 +1,35 @@
 body{
-    background-color:rgb(209, 196, 196);
+    background-color: grey;
     margin-left: 5%;
     margin-right: 5%;
-}
-p{
-margin-left:2%;
+    font-style: italic;
+    font-size: 1.1em;
 }
 footer > .lisence{
- box-shadow: 2px 3px 3px 4px rgb(99, 38, 99); 
- background-color:white;
+ box-shadow: 2px 3px 3px 4px rgb(63, 61, 61); 
+ background-color:rgb(122, 116, 116);
  text-align: center;
-}
-img{
-    background-color: white;
+ font-size: 1em;
 }
 h1,h2,h3{
     color:rgb(59, 8, 59);
+    text-decoration-line: underline
 }
-P{
-    margin-top: 1%;
+h1{
+    text-align: center;
+    text-decoration-line: underline;
 }
+#last{
+    text-align: right;
+}
+#side{
+  color:rgb(59, 8, 59);
+}
+img{
+    background-image:url(vava.jpeg);
+}
+
+
 
 
 
