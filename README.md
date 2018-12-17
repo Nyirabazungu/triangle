@@ -8,14 +8,15 @@ this project is about triangle
 -google chrome
 -terminal
  
- ## DBB
- |         Behavior                         |input     |       output            |    
+ ## BDD
+ |Behavior                                  |input      | output                 | 
+ |----------------------------------------- |-----------|------------------------|  
  | if you write same three  length          | 4,4,4     | Equilateral triangle   |
- |------------------------------------------|---------- |------------------------|
+ |                                          |           |                        |
  |if you have two sides of equal length     | 4,4,3     | Isosceles triangle     |
- |------------------------------------------|-----------|------------------------|
+ |                                          |           |                        |
  |if you have all sides of different length | 4,2,3,    | Scalene triangle       |
- |------------------------------------------|-----------|------------------------|
+ 
  
  ##contributors
 
