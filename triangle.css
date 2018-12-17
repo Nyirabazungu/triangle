@@ -1,8 +1,8 @@
 body{
-    background-color: grey;
+    background-color:thistle;
 }
 h4{
-    color:rgb(92, 92, 253);
+    color: rgb(99, 38, 99); 
 }
 h2,h3{
     color:white;
@@ -10,8 +10,9 @@ h2,h3{
 p{
 margin: 20px
 }
-footer{
- box-shadow: 2px 3px 3px 3px green;
+footer > .lisence{
+ box-shadow: 2px 3px 3px  rgb(99, 38, 99); 
+ background-color:rgb(223, 112, 223);
 }
 
 
