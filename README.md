@@ -7,8 +7,18 @@ this project is about triangle
 -visual studio code
 -google chrome
 -terminal
-
-##contributors
+ 
+ ## DBB
+ |         behavior                       |output     |       input            |    
+ |----------------------------------------|-----------|------------------------|
+ |It has all sides the same length        | 4,4,4     | equilateral triangle   |
+ |----------------------------------------|---------- |------------------------|
+ |Has two sides of equal length           | 4,4,3     |  isosceles triangle    |
+ |----------------------------------------|-----------|------------------------|
+ |Has all its sides of different lengths  | 4,2,3,    |  scalene triangle      |
+ |----------------------------------------|-----------|------------------------|
+ 
+ ##contributors
 
 -Nyirabazungu Valentine < nyanki6@gmail.com>
 
