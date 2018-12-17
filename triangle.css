@@ -1,11 +1,7 @@
 body{
     background-color:rgb(209, 196, 196);
-}
-h4{
-    color: rgb(99, 38, 99); 
-}
-h2,h3{
-    color: rgb(99, 38, 99);
+    margin-left: 5%;
+    margin-right: 5%;
 }
 p{
 margin: 20px
@@ -13,9 +9,17 @@ margin: 20px
 footer > .lisence{
  box-shadow: 2px 3px 3px 4px rgb(99, 38, 99); 
  background-color:white;
- text-align: right;
+ text-align: center;
 }
-
+img{
+    background-color: white;
+}
+h1,h2,h3{
+    color:rgb(59, 8, 59);
+}
+P{
+    margin-top: 1%;
+}
 
 
 

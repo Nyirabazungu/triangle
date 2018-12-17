@@ -9,13 +9,13 @@ this project is about triangle
 -terminal
  
  ## DBB
- |         behavior                       |output     |       input            |    
+ |         Behavior                       |input     |       output            |    
  |----------------------------------------|-----------|------------------------|
- |It has all sides the same length        | 4,4,4     | equilateral triangle   |
+ |It has all sides the same length        | 4,4,4     | Equilateral triangle   |
  |----------------------------------------|---------- |------------------------|
- |Has two sides of equal length           | 4,4,3     |  isosceles triangle    |
+ |Has two sides of equal length           | 4,4,3     | Isosceles triangle     |
  |----------------------------------------|-----------|------------------------|
- |Has all its sides of different lengths  | 4,2,3,    |  scalene triangle      |
+ |Has all its sides of different lengths  | 4,2,3,    | Scalene triangle       |
  |----------------------------------------|-----------|------------------------|
  
  ##contributors
