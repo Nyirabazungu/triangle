@@ -1,6 +1,6 @@
 # triangle
 
-this project 
+this project is about triangle
 
 ## setup used
 

@@ -1,18 +1,21 @@
 body{
-    background-color:thistle;
+    background-color:rgb(209, 196, 196);
 }
 h4{
     color: rgb(99, 38, 99); 
 }
 h2,h3{
-    color:white;
+    color: rgb(99, 38, 99);
 }
 p{
 margin: 20px
 }
 footer > .lisence{
- box-shadow: 2px 3px 3px  rgb(99, 38, 99); 
- background-color:rgb(223, 112, 223);
+ box-shadow: 2px 3px 3px 4px rgb(99, 38, 99); 
+ background-color:white;
+ text-align: right;
 }
+
+
 
 
