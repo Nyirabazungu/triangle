@@ -2,11 +2,13 @@ body{
     background-color: grey;
 }
 h4{
-    color:rgb(206, 206, 212);
+    color:rgb(92, 92, 253);
 }
 h2,h3{
     color:white;
 }
-img{
-    float: center;
+p{
+margin: 20px
 }
+
+
